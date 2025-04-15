@@ -9,4 +9,4 @@ Microsoft Excel (Dashboard built using PivotTables, charts, slicers, and conditi
 Key Features
 Total Casualties: 417,883
 
-**Casualty Breakdown
+Casualty Breakdown
