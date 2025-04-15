@@ -1,12 +1,19 @@
 # Road-Accident-Dashboard
-Road Accident Dashboard Project
-Overview
-This project visualizes and analyzes road accident data to identify patterns and key insights related to road safety. The dashboard provides an interactive view of different accident metrics, helping stakeholders make data-driven decisions to reduce road casualties.
+ # Road Accident Dashboard
 
-Tools Used
-Microsoft Excel (Dashboard built using PivotTables, charts, slicers, and conditional formatting)
+## Overview
+This Excel dashboard analyzes road accident data to uncover insights on casualties based on vehicle type, road type, light conditions, and more. The visualizations help in understanding patterns that could contribute to improved road safety and accident prevention.
 
-Key Features
-Total Casualties: 417,883
+## Tools Used
+- Microsoft Excel (PivotTables, PivotCharts, Slicers, Conditional Formatting)
 
-Casualty Breakdown
+## Key Metrics
+- *Total Casualties*: 417,883
+  - *Fatal Casualties*: 7,135 (1.7%)
+  - *Serious Casualties*: 59,312 (14.2%)
+  - *Slight Casualties*: 351,436 (84.1%)
+  - *Casualties by Car*: 333,485 (79.8%)
+
+## Dashboard Highlights
+- *Monthly Trend Analysis*: Comparison between current and previous
+-
